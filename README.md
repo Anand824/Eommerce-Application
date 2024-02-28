@@ -1,2 +1,2 @@
 # Eommerce-Application
-This is Ecommerce Application is a assesment application of Emonics
+This is Ecommerce Application is a Assesment application of Emonics
