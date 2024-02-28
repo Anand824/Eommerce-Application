@@ -1,6 +1,5 @@
 # Ecommerce Application
 
-
 Java Spring Boot REST API Project README
 Welcome to [Ecommerce Application]! This README will guide you through the process of building, running, and testing the application.
 
